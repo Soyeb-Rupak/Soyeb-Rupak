@@ -1,4 +1,4 @@
- <img src="https://i.ibb.co/dwj9DhCn/Frontend-Developer-Word-Press-Expert.png" alt="Banner Picture">
+ <img width="100%" src="https://i.ibb.co/dwj9DhCn/Frontend-Developer-Word-Press-Expert.png" alt="Banner Picture">
 
 
 ## 🛠 My Skills
