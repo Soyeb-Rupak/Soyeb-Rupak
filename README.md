@@ -1,3 +1,9 @@
+## 🛠 My Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,php,wordpress,mysql" />
+</p>
+
 <h1 align="center">Hello 👋, I'm Soyeb Rupak</h1>
 <h3 align="center">A passionate web developer</h3>
 
